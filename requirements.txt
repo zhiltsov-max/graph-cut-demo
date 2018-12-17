@@ -1,0 +1,4 @@
+numpy
+Pillow
+Cython
+git+https://github.com/Rhoana/pymaxflow.git

@@ -10,9 +10,10 @@
 - numpy
 - Cython
 - pymaxflow (https://github.com/Rhoana/pymaxflow)
+- Pillow
 
 ``` bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Проверена работа в ОС Ubuntu 16.04. Запуск под Windows может вызвать трудности
